@@ -43,4 +43,7 @@ Kesimpulannya, teruntuk kalian para *developers newbie* seperti saya, kalian tid
 Sekian, terima kasih sudah membaca artikel ini sampai akhir. Sampai jumpa di lain kesempatan!
 
 ### Referensi:
-https://agilemanifesto.org/
+[agilemanifesto.org](https://agilemanifesto.org/)
+
+
+[Go to Homepage](https://abifajri.github.io/ppl-article/)
