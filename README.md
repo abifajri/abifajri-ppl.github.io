@@ -2,5 +2,5 @@
 
 Nothing special here, but please make yourself comfortable.
 
-### Article List
+### Blog List
 - [Agile](blog/agile/)
