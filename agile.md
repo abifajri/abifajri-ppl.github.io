@@ -45,5 +45,6 @@ Sekian, terima kasih sudah membaca artikel ini sampai akhir. Sampai jumpa di lai
 ### Referensi:
 [agilemanifesto.org](https://agilemanifesto.org/)
 
-<hr>  
+<hr>
+<br>
 [Go to Homepage](https://abifajri.github.io/ppl-article/)
