@@ -28,6 +28,19 @@ Poin ini menjadi salah satu yang sangat membedakan *agile* dari *plan-driven app
 ![Altering product scope](https://cxl.com/wp-content/uploads/2017/06/BNqDJGTGxFVpGaitiULiXNa88zNYiPhIkUwMu0sM59NuStK2VLcX-ZxGqlk9mXFG-Nb9hq6wejSNyArRZ1ppGOWhR0L5G8FS7vte-YiiRoxSaSdF72YnMtRSY9NLW4352rQUk6SW.jpg)  
 Pada *agile*, semua *backlog* yang tersedia tidak ada yang bersifat final selama masa produksi masih berjalan. Ini berarti setiap *backlog* sangat mungkin mengalami perubahan. Hal ini membuat proses pengembangan tidak terpaku dengan *backlog* yang ada saat ini dan dapat terus melakukan improvisasi.
 
+Selain itu, *Agile* juga memiliki 12 *principles* yang harus diikuti. Berikut adalah 5 di antaranya yang menurut saya paling *challenging*:
+
+ 1. ***Welcome changing requirements, even late in development. Agile processes harness change for the customer’s competitive advantage.***  
+*Agile* memungkinkan *requirements* yang sejak awal diberikan oleh *customer* berubah di tengah berjalannya proyek. Hal ini membuat kita sebagai *development* harus selalu siap bilamana apa yang kita kerjakan sekarang tidak digunakan sama sekali karena permintaan *customer* yang mungkin akan berubah sewaktu-waktu.
+ 2. ***Deliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter timescale.***
+Untuk saya pribadi, poin ini *challenging* pada proyek dari PPL semester ini. Karena kita harus *constantly* menyelesaikan *backlog* yang diberikan sembari mengerjakan tugas-tugas dari mata kuliah lainnya. Manajemen waktu yang baik sangat dibutuhkan.
+ 3. ***The most efficient and effective method of conveying information to and within a development team is face-to-face conversation.***
+ Daripada sebuah *challenge*, saya merasa ini adalah sebuah *blessing*. Selama proyek PPL ini, saya dan rekan satu tim hampir selalu bertukar informasi secara langsung sehingga memudahkan proses *development*.
+ 4. ***Working software is the primary measure of progress.***
+ Poin ini *challenging* karena suatu *backlog* selesai apabila *frontend* dan *backend*-nya selesai dan sudah berhasil dites. Jadi apabila *backend*-nya sudah selesai namun *frontend*-nya belum, *backlog* tersebut belum bisa dites dan dengan kata lain belum ada *progress* yang tercatat. Dengan begitu, kita sebagai *development team* harus bekerja dengan tempo yang sama satu sama lain.
+ 5. ***Agile processes promote sustainable development. The sponsors, developers, and users should be able to maintain a constant pace indefinitely.***
+Pada suatu proyek, ada kalanya kita akan mengalami *demotivation*. Pada *agile* kita diharuskan untuk bekerja dengan *pace* yang sama selama proyek berjalan. Maka dari itu, kita harus selalu menjaga semangat kita dan bekerja secara profesional.
+
 ## *My Very First Sprint Experience*
 *Disclaimer* sedikit, saya sebenarnya *enggak* begitu jago kalau masalah *coding*. Maka dari itu, saat ditawari *role* lain sama Scrum Master (SM), saya langsung tertarik. Di proyek ini, saya di-*assign* sebagai Quality Assurance (QA). Saya pribadi sangat tertarik dengan *job desc*-nya QA karena agak *nyerempet* sama Product Manager. Terlebih, masalah *coding* juga bukan keahlian saya.
 
